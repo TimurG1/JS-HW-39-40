@@ -1,0 +1,30 @@
+{
+  "name": "js-hw-39-40",
+  "version": "1.0.0",
+  "description": "",
+  "source": "index.html",
+  "scripts": {
+    "dev": "parcel index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TimurG1/JS-HW-39-40.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TimurG1/JS-HW-39-40/issues"
+  },
+  "homepage": "https://github.com/TimurG1/JS-HW-39-40#readme",
+  "devDependencies": {
+    "parcel": "^2.16.4",
+    "parcel-reporter-clean-dist": "^1.0.4",
+    "parcel-transformer-hbs": "^1.0.4"
+  },
+  "dependencies": {
+    "handlebars": "^4.7.9",
+    "lodash.debounce": "^4.0.8",
+    "pnotify": "^5.2.0"
+  }
+}
